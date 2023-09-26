@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Giorgos. 👋
+## I'm a Data Analyst and Mathematic Teacher!
 
-<!--
-**GiorgosSazalis/GiorgosSazalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking for work experience on Data Analysis field
+- 🤔 Any tips for making my portfolio projects are welcome
+- 😄 Pronouns: He/Him
+
+
+
+
+
+🏡 [website][website] **|** 
+👔 [linkedin][linkedin]
+
+
+
+[website]: https://giorgossazalis.github.io/Gsazwebsite.github.io/
+
+[linkedin]: https://www.linkedin.com/in/georgios-sazalis-831647210/
+
