@@ -4,7 +4,7 @@
 
 
 - 👯 I’m looking for work experience on Data Analysis field
-- 🤔 Any tips for making my portfolio projects are welcome
+- 🤔 Any tips for making my portfolio projects better are welcome!
 - 😄 Pronouns: He/Him
 
 
