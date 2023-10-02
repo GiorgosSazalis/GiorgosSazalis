@@ -18,5 +18,5 @@
 
 [website]: https://giorgossazalis.github.io/Gsazwebsite.github.io/
 
-[linkedin]: https://www.linkedin.com/in/georgios-sazalis-831647210/
+[linkedin]: https://giorgossazalis.github.io
 
