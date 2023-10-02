@@ -1,5 +1,5 @@
 ### Hi, I'm Giorgos. 👋
-## I'm a Data Analyst and Mathematic Teacher!
+## I'm a Data Analyst and a Teacher of Mathematics!
 
 
 
